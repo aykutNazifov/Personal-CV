@@ -1,0 +1,37 @@
+{
+  "aboutTitle": "Hakkımda",
+  "aboutText": "Ben Aykut Nazifov, 25 yaşındayım. Futbol ve tenis izlemeyi seviyorum, en iyi 5 ligi takip ediyorum ama esas olarak Premier Lig ile ilgileniyorum. Manchester City fanıyım ve bu sezon Şampiyonlar Ligi'ni kazanacağımızı umuyorum. Üniversitede birkaç programlama dili öğrendim, ancak Web Geliştirici olmaya karar verdim ve JavaScript'i kendi başıma öğrendim, bu yüzden kendi kendini yetiştirmiş, tutkulu ve çalışkan bir insanım diyebilirim.",
+  "educationTitle": "Eğitimler",
+  "educations": [
+    {
+      "type": "Teknik Üniversite",
+      "name": "Varna Teknik Üniversitesi, Varna",
+      "specialty": "Bilgisayar sistemleri ve teknolojisi",
+      "date": "Eyl 2017 - Haz 2022"
+    },
+    {
+      "type": "Profesyonel Teknik Yüksek",
+      "name": "Okul 'Shandor Petyofi' , Razgrad",
+      "specialty": "Bilgisayar donanımı ve teknolojileri",
+      "date": "Eyl 2011 - May 2016"
+    }
+  ],
+  "employmentTitle": "İş deneyimi",
+  "employment": [
+    {
+      "type": "Junior Frontend Geliştiricisi",
+      "name": "VACHEV ENGINEERING Ltd, Varna",
+      "specialty": "Kullanılan Teknoloji: JavaScript, TypeScript, React, NextJS, Tailwind CSS, styled-components ve dahası.",
+      "date": "Nis 2022 - Haz 2022"
+    },
+    {
+      "type": "Junior Frontend Geliştiricisi",
+      "name": "TeamYotov EOOD, Varna",
+      "specialty": "Kullanılan Teknoloji: JavaScript, React, NextJS, CSS(SCSS) ve dahası.",
+      "date": "Agu 2022 - Eki 2022"
+    }
+  ],
+  "sertificateTitle": "Sertifikalar",
+  "profileTitle": "Profil",
+  "github": "Github Profili"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aykut Nazifov",
+  "detailsTitle": "Kişisel bilgiler",
+  "address": "st.Podvis № 32, 9000 Varna",
+  "skillsTitle": "Beceriler",
+  "langTitle": "Diller",
+  "languages": [
+    { "title": "İngilizce", "value": 3 },
+    { "title": "Bulgarca", "value": 5 },
+    { "title": "Türkçe", "value": 5 }
+  ]
+}

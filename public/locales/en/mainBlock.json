@@ -1,0 +1,37 @@
+{
+  "aboutTitle": "About me",
+  "aboutText": " I'm Aykut Nazifov, 25 years old. I like watch football and tenis, follow all top 5 leagues, but mainly interested in Premier League. I'm Manchester City fan, and hope we will win Champions League this season. Learn several programming languages in univerity, but I decided to be a Web Developer and learned JavaScript on my own, so can say I'm a self-taught, passionate and hardworking person. ",
+  "educationTitle": "Education",
+  "educations": [
+    {
+      "type": "Technical University",
+      "name": "Technical University of Varna, Varna",
+      "specialty": "Computer systems and technology",
+      "date": "Sep 2017 - Jun 2022"
+    },
+    {
+      "type": "Profesional Technical High",
+      "name": "School 'Shandor Petyofi' , Razgrad",
+      "specialty": "Computer equipment and technologies",
+      "date": "Sep 2011 - May 2016"
+    }
+  ],
+  "employmentTitle": "Employment",
+  "employment": [
+    {
+      "type": "Junior Frontend Developer",
+      "name": "VACHEV ENGINEERING Ltd, Varna",
+      "specialty": "Technology Used: JavaScript, TypeScript, React, NextJS, Tailwind CSS, styled-components and more.",
+      "date": "Apr 2022 - Jun 2022"
+    },
+    {
+      "type": "Junior Frontend Developer",
+      "name": "TeamYotov EOOD, Varna",
+      "specialty": "Technology Used: JavaScript, React, NextJS, CSS(SCSS) and more.",
+      "date": "Aug 2022 - Oct 2022"
+    }
+  ],
+  "sertificateTitle": "Certificates",
+  "profileTitle": "Profiles",
+  "github": "Github Profile"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Айкут Назифов",
+  "detailsTitle": "Лична информация",
+  "address": "ул.Подвис № 32, 9000 Варна",
+  "skillsTitle": "Умения",
+  "langTitle": "Езици",
+  "languages": [
+    { "title": "Английски", "value": 3 },
+    { "title": "Български", "value": 5 },
+    { "title": "Турски", "value": 5 }
+  ]
+}

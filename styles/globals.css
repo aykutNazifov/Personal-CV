@@ -1,26 +1,62 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.select-container .select__menu {
+  background-color: #bdc8e0;
+  margin-top: 0px;
+  border-radius: 0px 0px 18px 18px;
+  border-top: 2px solid #214793;
+  overflow: hidden;
 }
 
-* {
-  box-sizing: border-box;
+.select-container .select__option {
+  cursor: pointer;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+.select-container .select__placeholder {
+  color: #214793;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  padding-left: 32px;
+}
+.select-container .select__placeholder::before {
+  content: url("/images/langIcon.svg");
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 50%;
+  left: 13px;
+  transform: translateY(-50%);
+}
+
+.select-container .select__indicator-separator {
+  display: none;
+}
+.select-container .select__indicator {
+  color: #214793;
+  transition: 0.5s all ease;
+}
+
+.select-container .select__control {
+  background: #bdc8e0;
+  border-radius: 18px;
+  cursor: pointer;
+  border: none !important;
+  box-shadow: none;
+}
+.select-container .select__control--menu-is-open {
+  border-radius: 18px 18px 0px 0px !important;
+}
+.select-container .select__control--menu-is-open .select__indicator {
+  transform: rotateX(180deg);
+}
+.select-container .select__indicator {
+  color: #214793;
+  transition: 0.5s all ease;
 }
