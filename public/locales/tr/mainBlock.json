@@ -1,6 +1,6 @@
 {
   "aboutTitle": "Hakkımda",
-  "aboutText": "Ben Aykut Nazifov, 25 yaşındayım. Futbol ve tenis izlemeyi seviyorum, en iyi 5 ligi takip ediyorum ama esas olarak Premier Lig ile ilgileniyorum. Manchester City fanıyım ve bu sezon Şampiyonlar Ligi'ni kazanacağımızı umuyorum. Üniversitede birkaç programlama dili öğrendim, ancak Web Geliştirici olmaya karar verdim ve JavaScript'i kendi başıma öğrendim, bu yüzden kendi kendini yetiştirmiş, tutkulu ve çalışkan bir insanım diyebilirim.",
+  "aboutText": "Merhaba! 👋 Ben Manchester City için atan bir kalbe sahip tutkulu bir bireyim. Teknoloji dünyasındaki yolculuğum, bir IT derecesi ile başladı, ancak gerçek tutkum, özellikle React dünyasına derinlemesine daldığım, zamanımı ve enerjimi yenilikçi teknolojilere yatırmaktadır. Kendi kendine öğrenen bir hayran olarak, zorluklardan keyif alırım ve sürekli öğrenmeye inanırım. Profesyonel yolculuğum, resmi eğitim ve kendi kendine yönlendirilmiş keşiflerin birleşimi olmuş olup, masaya getirdiğim benzersiz bir beceri setine yol açmıştır.",
   "educationTitle": "Eğitimler",
   "educations": [
     {
@@ -29,9 +29,16 @@
       "name": "TeamYotov EOOD, Varna",
       "specialty": "Kullanılan Teknoloji: JavaScript, React, NextJS, CSS(SCSS) ve dahası.",
       "date": "Agu 2022 - Eki 2022"
+    },
+    {
+      "type": "Frontend Geliştiricisi",
+      "name": "Composity Ltd, Varna",
+      "specialty": "Kullanılan Teknoloji: JavaScript, React, NextJS, Tailwind CSS, Redux ve dahası.",
+      "date": "Nov 2022 - Feb 2024"
     }
   ],
   "sertificateTitle": "Sertifikalar",
   "profileTitle": "Profil",
-  "github": "Github Profili"
+  "github": "Github Profili",
+  "linkedin": "LinkedIn Profili"
 }

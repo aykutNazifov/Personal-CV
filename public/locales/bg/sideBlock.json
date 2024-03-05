@@ -5,7 +5,7 @@
   "skillsTitle": "Умения",
   "langTitle": "Езици",
   "languages": [
-    { "title": "Английски", "value": 3 },
+    { "title": "Английски", "value": 4 },
     { "title": "Български", "value": 5 },
     { "title": "Турски", "value": 5 }
   ]

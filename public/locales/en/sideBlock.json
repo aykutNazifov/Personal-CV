@@ -5,7 +5,7 @@
   "skillsTitle": "Skills",
   "langTitle": "Languages",
   "languages": [
-    { "title": "English", "value": 3 },
+    { "title": "English", "value": 4 },
     { "title": "Bulgarian", "value": 5 },
     { "title": "Turkish", "value": 5 }
   ]

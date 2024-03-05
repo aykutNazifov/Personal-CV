@@ -93,6 +93,17 @@ const MainBlock = () => {
             https://github.com/aykutNazifov
           </a>
         </div>
+        <div className="mb-4">
+          <p className="font-bold text-lg">{content.linkedin}</p>
+          <a
+            href="https://www.linkedin.com/in/aykut-nazifov-b054792b8/"
+            target="_blank"
+            rel="noreferrer"
+            className="hover:text-primary hover:underline transition-all duration-100 ease-in"
+          >
+            https://www.linkedin.com/in/aykut-nazifov-b054792b8/
+          </a>
+        </div>
       </div>
     </div>
   );

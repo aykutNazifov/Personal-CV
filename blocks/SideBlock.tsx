@@ -11,16 +11,10 @@ const skillsData = [
   { item: "HTML/CSS (SCSS)", value: 5 },
   { item: "React(NextJS)", value: 5 },
   { item: "JavaScript", value: 5 },
-  { item: "CSS(Bootstrap, TailwindCSS, styled-components)", value: 4 },
-  { item: "TypeScript", value: 3 },
-  { item: "NodeJS (Express)", value: 3 },
-  { item: "MongoDB (mongoose)", value: 3 },
-];
-
-const langsData = [
-  { item: "English", value: 3 },
-  { item: "Bulgarian", value: 5 },
-  { item: "Turkish", value: 5 },
+  { item: "CSS(Bootstrap, TailwindCSS, styled-components)", value: 5 },
+  { item: "TypeScript", value: 4 },
+  { item: "NodeJS (Express)", value: 4 },
+  { item: "MongoDB (mongoose)", value: 4 },
 ];
 
 const SideBlock = () => {
@@ -45,7 +39,7 @@ const SideBlock = () => {
           <BsFillPersonFill color="#3a5b87" size={25} /> {content.name}
         </p>
         <p className="flex items-center gap-2 mb-3">
-          <MdEmail color="#3a5b87" size={25} /> aykutnazifov@gmail.com
+          <MdEmail color="#3a5b87" size={25} /> aykutnazifov1@gmail.com
         </p>
         <p className="flex items-center gap-2 mb-3">
           <BsFillTelephoneFill color="#3a5b87" size={25} /> 0894688960

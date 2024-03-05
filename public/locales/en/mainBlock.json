@@ -1,6 +1,6 @@
 {
   "aboutTitle": "About me",
-  "aboutText": " I'm Aykut Nazifov, 25 years old. I like watch football and tenis, follow all top 5 leagues, but mainly interested in Premier League. I'm Manchester City fan, and hope we will win Champions League this season. Learn several programming languages in univerity, but I decided to be a Web Developer and learned JavaScript on my own, so can say I'm a self-taught, passionate and hardworking person. ",
+  "aboutText": "Hello there! 👋 I'm a passionate individual with a heart that beats for Manchester City. My journey in the tech world began with a degree in IT, but my true love lies in investing my time and energy in cutting-edge technologies, especially diving deep into the world of React.As a self-taught enthusiast, I thrive on challenges and believe in continuous learning. My professional journey has been a fusion of formal education and self-directed exploration, resulting in a unique skill set that I bring to the table.",
   "educationTitle": "Education",
   "educations": [
     {
@@ -29,9 +29,16 @@
       "name": "TeamYotov EOOD, Varna",
       "specialty": "Technology Used: JavaScript, React, NextJS, CSS(SCSS) and more.",
       "date": "Aug 2022 - Oct 2022"
+    },
+    {
+      "type": "Frontend Developer",
+      "name": "Composity Ltd, Varna",
+      "specialty": "Technology Used: JavaScript, React, NextJS, Tailwind CSS, Redux and more.",
+      "date": "Nov 2022 - Feb 2024"
     }
   ],
   "sertificateTitle": "Certificates",
   "profileTitle": "Profiles",
-  "github": "Github Profile"
+  "github": "Github Profile",
+  "linkedin": "LinkedIn Profile"
 }

@@ -5,7 +5,7 @@
   "skillsTitle": "Beceriler",
   "langTitle": "Diller",
   "languages": [
-    { "title": "İngilizce", "value": 3 },
+    { "title": "İngilizce", "value": 4 },
     { "title": "Bulgarca", "value": 5 },
     { "title": "Türkçe", "value": 5 }
   ]
